@@ -24,7 +24,7 @@ st.markdown(
     """,
     unsafe_allow_html=True)
  
-st.header("MagnaFranci")
+st.header("La Magna Via")
  
 # Gestione dinamica del percorso dell'immagine
 if os.path.exists("rag marzia/Chatbot.webp"):
