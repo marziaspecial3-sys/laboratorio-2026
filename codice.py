@@ -27,7 +27,7 @@ st.markdown(
 st.header("La Magna Via")
  
 # Gestione dinamica del percorso dell'immagine
-if os.path.exists("rag marzia/Chatbot.webp"):
+if os.path.exists("rag marzia/, generata con l'AI (1)"):
     st.image("rag marzia/Chatbot.webp", width=500)
 elif os.path.exists("Chatbot.webp"):
     st.image("Chatbot.webp", width=500)
